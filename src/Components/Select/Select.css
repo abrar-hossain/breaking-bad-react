@@ -1,0 +1,11 @@
+.select-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 30px;
+}
+.character-container
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
